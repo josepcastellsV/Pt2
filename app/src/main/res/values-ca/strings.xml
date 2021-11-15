@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pt2_Castells_Josep</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="longitud">Longitut</string>
+    <string name="masa">Masa</string>
+    <string name="convert">Converteix</string>
+    <string name="back">Enrrere</string>
+</resources>

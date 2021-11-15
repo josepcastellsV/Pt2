@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pt2_Castells_Josep</string>
+    <string name="temperatura">Temperature</string>
+    <string name="longitud">Lenght</string>
+    <string name="masa">mass</string>
+    <string name="convert">convert</string>
+    <string name="back">back</string>
+</resources>
